@@ -1,2 +1,43 @@
-# Megha
-Hello World ! This is my Profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Sukanya%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
+
+## 👨‍💻 About Me  
+- 🎓 3rd-year CSE student passionate about *DSA, AI/ML, and Web Development*  
+- 🚀 My goal is to become a skilled software engineer who creates efficient, scalable, and user-friendly solutions.
+- ⚡ Fun fact: I love solving problems that make life easier with tech  
+
+---
+
+## 🛠 Tech Stack  
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+
+## 📊 GitHub Stats  
+![Sukanya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Megha121-sp&show_icons=true&theme=radical&custom_title=Sukanya's%20GitHub%20Stats)
+
+---
+
+## 🔥 Streak Stats  
+[![GitHub Streak](https://streak-stats.demolab.com?user=subham-sarthak&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&sideLabels=FFFFFF&currStreakNum=FFFFFF&stroke=FFFFFF&custom_title=Subham's%20Contribution%20Streak)](https://git.io/streak-stats)
+
+---
+
+## 📚 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megha121-sp&layout=compact&theme=radical&custom_title=%20Top%20Languages)
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sukanya-parida-a38555326?"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a>
+  <a href="mailto:sukanyaparida2003@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" /></a>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subham-sarthak&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</p>
