@@ -3,7 +3,7 @@
 </p>
 
 ## 👨‍💻 About Me  
-- 🎓 3rd-year CSE student passionate about *DSA, AI/ML, and Web Development*  
+- 🎓 CSE student passionate about *DSA, AI/ML, Data Science and Web Development*  
 - 🚀 My goal is to become a skilled software engineer who creates efficient, scalable, and user-friendly solutions.
 - ⚡ Fun fact: I love solving problems that make life easier with tech  
 
