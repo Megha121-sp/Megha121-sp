@@ -3,9 +3,12 @@
 </p>
 
 ## 👨‍💻 About Me  
-- 🎓 CSE student passionate about *DSA, AI/ML, Data Science and Web Development*  
-- 🚀 I love to code & build solutions for problems that makes something eaiser.
-- ⚡ Fun fact: I'm always up for a coding challenge!   
+- 💻 B.Tech CSE @ IGIT Sarang | Software Developer 🚀  
+- 🤖 AI/ML & Data Science Enthusiast |
+- ☕ Java | 🐍 Python | JavaScript | React | Node.js | MongoDB  
+- 🧠 DSA | Machine Learning | Full Stack Development | Artificial Intelligence
+- 🚀 Turning ideas into real-world solutions  
+- 💼 Open to SDE | AI/ML | Software Engineering Opportunities  
 
 ---
 
