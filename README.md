@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[sukanya-github-banner-animated.gif](https://github.com/Megha121-sp/Megha121-sp/blob/main/assets/sukanya-github-banner-animation.gif) " width="100%">
+  <img src="assets/sukanya-github-banner-animation.gif" width="100%">
 </p>
 
 ## 👨‍💻 About Me  
