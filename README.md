@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Sukanya%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="./assets/sukanya-github-banner-animated.gif" width="100%">
 </p>
 
 ## 👨‍💻 About Me  
