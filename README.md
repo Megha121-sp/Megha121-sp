@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Megha121-sp/main/assets/sukanya-github-banner-animated.gif" width="100%">
+  <img src="./assets/sukanya-github-banner-animated.gif" width="100%">
 </p>
 
 ## 👨‍💻 About Me  
