@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\HP\OneDrive\Desktop\sukanya-github-banner-animated.gif" width="100%">
+  <img src="D:\Projects\sukanya-github-banner-animated.gif"" width="100%">
 </p>
 
 ## 👨‍💻 About Me  
