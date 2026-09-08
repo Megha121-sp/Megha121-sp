@@ -1,22 +1,14 @@
 <p align="center">
+   ## Turning Idea Into Code.
   <img src="assets/sukanya-github-banner-animation.gif" width="100%">
 </p>
 
 ## 👨‍💻 About Me  
 - 💻 B.Tech CSE @ IGIT Sarang | Software Developer 🚀  
-- 🤖 AI/ML & Data Science Enthusiast |
-- ☕ Java | 🐍 Python | JavaScript | React | Node.js | MongoDB  
-- 🧠 DSA | Machine Learning | Full Stack Development | Artificial Intelligence
+- 🤖 AI/ML & Data Science Enthusiast 
+- 🧠 DSA | Machine Learning | Full Stack Development | Artificial Intelligence | Computer Vision
 - 🚀 Turning ideas into real-world solutions  
 - 💼 Open to SDE | AI/ML | Software Engineering Opportunities  
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="assets/Codex Image Sep 8, 2026, 07_53_53 PM.png" width="100%">
-</p>
 
 ---
 
@@ -43,11 +35,17 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/sukanya-parida-a38555326?"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a>
+  <a href="[https://www.linkedin.com/in/sukanya-parida-a38555326?](https://www.linkedin.com/in/sukanyaparida)"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a>
   <a href="mailto:sukanyaparida2003@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" /></a>
 </p>
 
 ---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  SAME DREAMS BIGGER GOALS BETTER CODE ✨.
+</p>
 
 
 <p align="center">
