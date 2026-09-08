@@ -37,6 +37,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sukanyaparida"><img src="assets/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.jfif" width="30" /></a>
   <a href="mailto:sukanyaparida2003@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" /></a>
+  <a href="github.com/Megha121-sp"><img src="assets/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.jfif" width="30" /></a>
 </p>
 
 ---
