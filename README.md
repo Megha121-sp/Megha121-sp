@@ -15,7 +15,7 @@
 ## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="assets/Codex Image Sep 8, 2026, 07_53_53 PM.png" width="80%">
+  <img src="assets/Codex Image Sep 8, 2026, 07_53_53 PM.png" width="100%">
 </p>
 
 ---
