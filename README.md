@@ -1,5 +1,5 @@
 <p align="center">
-   ## Turning Idea Into Code.
+   <b> Turning Idea Into Code. </b>
   <img src="assets/sukanya-github-banner-animation.gif" width="100%">
 </p>
 
@@ -35,16 +35,14 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="[https://www.linkedin.com/in/sukanya-parida-a38555326?](https://www.linkedin.com/in/sukanyaparida)"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a>
+  <a href="https://www.linkedin.com/in/sukanyaparida"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" /></a>
   <a href="mailto:sukanyaparida2003@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" /></a>
 </p>
 
 ---
 
-## 💬 Random Dev Quote
-
 <p align="center">
-  SAME DREAMS BIGGER GOALS BETTER CODE ✨.
+  <b> SAME DREAMS BIGGER GOALS BETTER CODE ✨. </b>
 </p>
 
 
