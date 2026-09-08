@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Codex Image Sep 8, 2026, 07_53_53 PM.png" width="100%">
+  <img src="assets/sukanya-github-banner-animation.gif" width="100%">
 </p>
 
 ## 👨‍💻 About Me  
